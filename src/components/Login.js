@@ -35,7 +35,7 @@ const Login = () => {
   };
 
   return (
-    <div className="body1" style ={{ backgroundColor:"black"}}>
+    <div className="body1" style ={{ backgroundColor:"#032541"}}>
       <div className="p-4 box" style ={{backgroundColor:"black"}}>
         <h2 className="mb-3" style ={{color:"white"}}>MoviesList Login</h2>
         {error && <Alert variant="danger">{error}</Alert>}

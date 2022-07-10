@@ -23,7 +23,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="body2" style ={{ backgroundColor:"black"}}>
+    <div className="body2" style ={{ backgroundColor:"#032541"}}>
       <div className="p-4 box" style ={{backgroundColor:"black"}}>
         <h2 className="mb-3" style ={{color:"white"}}>Signup</h2>
         {error && <Alert variant="danger">{error}</Alert>}
