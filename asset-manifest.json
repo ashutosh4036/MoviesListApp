@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ashutosh4036/MoviesListApp/static/css/main.88f848c3.chunk.css",
+    "main.js": "/ashutosh4036/MoviesListApp/static/js/main.c0076877.chunk.js",
+    "main.js.map": "/ashutosh4036/MoviesListApp/static/js/main.c0076877.chunk.js.map",
+    "runtime-main.js": "/ashutosh4036/MoviesListApp/static/js/runtime-main.5b77819a.js",
+    "runtime-main.js.map": "/ashutosh4036/MoviesListApp/static/js/runtime-main.5b77819a.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ashutosh4036/MoviesListApp/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d9facabd.chunk.js": "/ashutosh4036/MoviesListApp/static/js/2.d9facabd.chunk.js",
+    "static/js/2.d9facabd.chunk.js.map": "/ashutosh4036/MoviesListApp/static/js/2.d9facabd.chunk.js.map",
+    "index.html": "/ashutosh4036/MoviesListApp/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ashutosh4036/MoviesListApp/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.88f848c3.chunk.css.map": "/ashutosh4036/MoviesListApp/static/css/main.88f848c3.chunk.css.map",
+    "static/js/2.d9facabd.chunk.js.LICENSE.txt": "/ashutosh4036/MoviesListApp/static/js/2.d9facabd.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/ashutosh4036/MoviesListApp/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b77819a.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.d9facabd.chunk.js",
+    "static/css/main.88f848c3.chunk.css",
+    "static/js/main.c0076877.chunk.js"
+  ]
+}
