@@ -25,7 +25,7 @@ const Signup = () => {
   return (
     <div className="body2" style ={{ backgroundColor:"black"}}>
       <div className="p-4 box" style ={{backgroundColor:"black"}}>
-        <h2 className="mb-3" style ={{color:"white"}}>Firebase Auth Signup</h2>
+        <h2 className="mb-3" style ={{color:"white"}}>Signup</h2>
         {error && <Alert variant="danger">{error}</Alert>}
         <Form onSubmit={handleSubmit}>
           <Form.Group className="mb-3" controlId="formBasicEmail">
