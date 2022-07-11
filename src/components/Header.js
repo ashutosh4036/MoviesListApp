@@ -35,7 +35,7 @@ import { useUserAuth } from "../context/UserAuthContext";
               </Link>
             </li>
             <li>
-              <Link to="/" className = "btn btn-main" onclick={handleLogout}>LogOut</Link>
+              <Link to ="/" className = "btn btn-main" onclick={handleLogout}>LogOut</Link>
             </li> 
           </ul>
         </div>

@@ -36,9 +36,9 @@ import { GlobalContext } from "../context/GlobalState";
 
       <div className="info">
         <div className="header">
-          <h3 className="title">{movie.title}</h3>
+          <h3 className="title"  style={{color: "white"}}>{movie.title}</h3>
           <h4 className="release-date">
-            <Moment format="YYYY">{movie.release_date}</Moment>
+            <Moment format="YYYY" style={{color: "white"}} >{movie.release_date}</Moment>
           </h4>
         </div>
 
